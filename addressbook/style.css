@@ -1,0 +1,33 @@
+body {
+    background-color: cornflowerblue;
+    
+}
+img{
+    height: 150px;
+    margin: 30px;
+   
+}
+h4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: olive;
+}
+#contactInfo{
+    display: block;
+    margin-left: 50em;
+    margin-right: auto;
+    font-family: arial;
+    font-weight: bold;
+}
+#contact{
+    display: block;
+    margin-left: 53em;
+    margin-right: auto;
+    font-family: arial;
+}
